@@ -1,0 +1,4 @@
+/Users/sstovall/Library/CloudStorage/OneDrive-Umich/F-Sharp/SLisp/obj/Debug/net6.0/SLisp.fsproj.AssemblyReference.cache
+/Users/sstovall/Library/CloudStorage/OneDrive-Umich/F-Sharp/SLisp/obj/Debug/net6.0/SLisp.AssemblyInfoInputs.cache
+/Users/sstovall/Library/CloudStorage/OneDrive-Umich/F-Sharp/SLisp/obj/Debug/net6.0/SLisp.AssemblyInfo.fs
+/Users/sstovall/Library/CloudStorage/OneDrive-Umich/F-Sharp/SLisp/obj/Debug/net6.0/SLisp.fsproj.CoreCompileInputs.cache

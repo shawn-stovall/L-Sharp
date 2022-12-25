@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uIW7SZnGzPnRXAonffscn+jZuIs18SiTieJJQnzyGjHLfPHepWJ2nmwdA4/o3hA1VOejUD1FJfBj5+GRUpUARA==",
+  "success": true,
+  "projectFilePath": "/Users/sstovall/Library/CloudStorage/OneDrive-Umich/F-Sharp/SLisp/SLisp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/sstovall/.nuget/packages/fsharp.core/6.0.7/fsharp.core.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
