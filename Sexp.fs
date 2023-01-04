@@ -1,17 +1,19 @@
 module Sexp
 
-type t<'a, 'b> =
-    | Cell of 'a * 'b
+type t =
+    | Cell of t * t
+    | Val of string
+    | SpecForm of string
     | Nil
 
-let car (cell: t<'a, 'b>) =
+let car (cell: t) =
     match cell with
     | Cell(a, _) -> Some(a)
     | _ -> None
 
-let cdr (cell: t<'a, 'b>) =
+let cdr (cell: t) =
     match cell with
     | Cell(_, b) -> Some(b)
     | _ -> None
 
-let cons (a: 'a, b: 'b) = Cell(a, b)
+let cons (a: t, b: t) = Cell(a, b)

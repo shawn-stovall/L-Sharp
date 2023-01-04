@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sstovall/Library/CloudStorage/OneDrive-Umich/F-Sharp/SLisp/SLisp.fsproj": {}
+    "C:\\Users\\sawns\\OneDrive - Umich\\F-Sharp\\SLisp\\SLisp.fsproj": {}
   },
   "projects": {
-    "/Users/sstovall/Library/CloudStorage/OneDrive-Umich/F-Sharp/SLisp/SLisp.fsproj": {
+    "C:\\Users\\sawns\\OneDrive - Umich\\F-Sharp\\SLisp\\SLisp.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sstovall/Library/CloudStorage/OneDrive-Umich/F-Sharp/SLisp/SLisp.fsproj",
+        "projectUniqueName": "C:\\Users\\sawns\\OneDrive - Umich\\F-Sharp\\SLisp\\SLisp.fsproj",
         "projectName": "SLisp",
-        "projectPath": "/Users/sstovall/Library/CloudStorage/OneDrive-Umich/F-Sharp/SLisp/SLisp.fsproj",
-        "packagesPath": "/Users/sstovall/.nuget/packages/",
-        "outputPath": "/Users/sstovall/Library/CloudStorage/OneDrive-Umich/F-Sharp/SLisp/obj/",
+        "projectPath": "C:\\Users\\sawns\\OneDrive - Umich\\F-Sharp\\SLisp\\SLisp.fsproj",
+        "packagesPath": "C:\\Users\\sawns\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sawns\\OneDrive - Umich\\F-Sharp\\SLisp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/sstovall/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sawns\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/Users/sstovall/.dotnet/sdk/6.0.404/FSharp/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.101\\FSharp\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +43,7 @@
             "FSharp.Core": {
               "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[6.0.7, )",
+              "version": "[7.0.0, )",
               "generatePathProperty": true
             }
           },
@@ -57,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/sstovall/.dotnet/sdk/6.0.404/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

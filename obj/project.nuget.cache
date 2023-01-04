@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uIW7SZnGzPnRXAonffscn+jZuIs18SiTieJJQnzyGjHLfPHepWJ2nmwdA4/o3hA1VOejUD1FJfBj5+GRUpUARA==",
+  "dgSpecHash": "kcm6ZmSj54Wg6knyWs3ZDwkVi47VWZbn7xL53DEJjw2HCPh1W1o+Cd5wgj6jz+e3o8iz5YtgCRdOY7jqSZrr7g==",
   "success": true,
-  "projectFilePath": "/Users/sstovall/Library/CloudStorage/OneDrive-Umich/F-Sharp/SLisp/SLisp.fsproj",
+  "projectFilePath": "C:\\Users\\sawns\\OneDrive - Umich\\F-Sharp\\SLisp\\SLisp.fsproj",
   "expectedPackageFiles": [
-    "/Users/sstovall/.nuget/packages/fsharp.core/6.0.7/fsharp.core.6.0.7.nupkg.sha512"
+    "C:\\Users\\sawns\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
