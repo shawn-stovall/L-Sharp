@@ -5,12 +5,11 @@ module SpecialForms
 
 open Sexp
 
-type expected =
+type t =
     | Val
     | Sexp
     | Fun
     | Identifier
 
 // Forms used for verification
-let forms: (string * t<expected, t<expected, t<'a, 'b>>>) list =
-    [ ("define", Cell(Identifier, Cell(Val, Nil))) ]
+let forms: (string list) = [ "define"; "fun"; "let"; "if"; "cond" ]
